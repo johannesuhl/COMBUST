@@ -1,0 +1,8 @@
+tiff_type,mi_category,description_text
+singlefamily,RES-LR,(Semi-) Detached residential structure and attached small-scale residential or (rarely) commercial structure with a height lower than 10 m
+multifamily,RES-MR,(Semi-) Detached residential structure and attached small-scale residential or (rarely) commercial structure with a height between 10 and 30 m
+commercial_innercity,RCMU,"Detached and attached medium to large residential, commercial or office structure lower than 30 m"
+highrise,RCMU-HR,"Detached and attached medium to large residential, commercial or office structure between 30 and 75 m"
+skyscraper,RCMU-SKY,"Detached and attached medium to large residential, commercial or office structure higher than 75 m (includes skyscrapers)"
+commercial_industrial,C/I,"Attached or detached light small-scale commercial, industrial or office structure and large industrial or retail and heavy industry"
+lightweight,MLB,"Mobile homes and detached light-weight buildings such as wooden cabins, huts, garages, etc."
