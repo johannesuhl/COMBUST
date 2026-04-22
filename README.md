@@ -8,7 +8,7 @@ These scripts document the production of the COMBUST dataset. They consist of th
 
 - **03_rasterize_building_content_cm.py**: Gridifies building content estimates into a 250-m grid.
 
-- **04_downsample_msmc_data.py**: Resamples the 10-m building mass/volume estimates from [Frantz et al. (2023)](https://doi.org/10.1038/s41467-023-43755-5) to the 250-m grid.
+- **04_downsample_msmc_data.ipynb**: Resamples the 10-m building mass/volume estimates from [Frantz et al. (2023)](https://doi.org/10.1038/s41467-023-43755-5) to the 250-m grid.
 
 - **05_get_osm_gas_stations.py**: Downloads locations of gas stations from OpenStreetMap.
 
