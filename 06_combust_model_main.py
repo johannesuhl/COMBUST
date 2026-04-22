@@ -5,7 +5,7 @@ Created on Tue Jun 25 14:11:51 2024
 @author: Johannes H. Uhl 2022 - 2026
 """
 
-# COMBUST: Gridded estimates of the combustible mass of the built environment of the conterminous U.S. (1975-2020)
+# COMBUST: Gridded estimates of the combustible mass of the built environment in the conterminous U.S. (1975-2020)
 
 import os,sys, shutil
 try:
